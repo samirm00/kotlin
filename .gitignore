@@ -1,0 +1,28 @@
+# Built application files
+*.apk
+*.ap_
+*.class
+*.dex
+*.jar
+*.war
+*.ear
+*.aar
+*.log
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
